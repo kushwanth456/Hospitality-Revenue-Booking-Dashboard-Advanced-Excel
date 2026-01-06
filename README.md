@@ -1,4 +1,5 @@
 Hospitality Revenue & Booking Dashboard – Excel
+
 Project Overview
 
 This project focuses on analyzing hospitality business performance using an interactive Excel dashboard. The goal is to track revenue, bookings, occupancy, and cancellations to support data-driven decision-making for hotel operations.
